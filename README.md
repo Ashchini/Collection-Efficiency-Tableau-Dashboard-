@@ -27,7 +27,7 @@ https://public.tableau.com/views/TelecomCollectionEfficiencyDashboardSampleData_
 
 ### 📸 Dashboard Preview
 #Executive Dashboard
-![Detail Dashboard Preview](dashboard_images/Executive_Dashboard.png)
+![Detail Dashboard Preview](dashboard_images/Executive_Summary.png)
 
 #Detailed Dashboard
 ![Detail Dashboard Preview](dashboard_images/Detailed_Dashboard.png)
