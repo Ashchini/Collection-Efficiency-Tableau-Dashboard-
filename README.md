@@ -5,8 +5,6 @@ Interactive Tableau dashboard showing Canada-wide collection efficiency with fil
 View the Tableau Public dashboard here:  
 https://public.tableau.com/views/TelecomCollectionEfficiencyDashboardSampleData_17634415369640/CollectionEfficiency?:language=en-GB&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
 
-### 📸 Dashboard Preview
-![Detail Dashboard Preview](dashboard_images/Detailed_Dashboard.png)
 
 ✔ Visualizations Used
 •	Gauge charts to show Collection Efficiency for each product category.
@@ -27,4 +25,9 @@ https://public.tableau.com/views/TelecomCollectionEfficiencyDashboardSampleData_
 •	Basic angle and segment logic for gauge charts
 •	Dynamic titles for Year and Product Category
 
+### 📸 Dashboard Preview
+#Executive Dashboard
+![Detail Dashboard Preview](dashboard_images/Executive_Dashboard.png)
 
+#Detailed Dashboard
+![Detail Dashboard Preview](dashboard_images/Detailed_Dashboard.png)
