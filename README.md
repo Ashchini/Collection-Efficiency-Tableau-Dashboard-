@@ -6,7 +6,8 @@ View the Tableau Public dashboard here:
 https://public.tableau.com/views/TelecomCollectionEfficiencyDashboardSampleData_17634415369640/CollectionEfficiency?:language=en-GB&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
 
 ### 📸 Dashboard Preview
-![Dashboard Preview](dashboard_images/overview.png)
+![Executive Dashboard Preview](dashboard_images/Executive Summary.png)
+![Detail Dashboard Preview](dashboard_images/Detailed Dashboard.png)
 
 ✔ Visualizations Used
 •	Gauge charts to show Collection Efficiency for each product category.
